@@ -1,0 +1,35 @@
+Name,National Pass Rate,Lane Pass Rate,Grade Level,Level of Challange,Catagory
+Research,0.67,1,12,4,AP Capstone
+Seminar,0.73,0.94,11,4,AP Capstone
+Art History,0.61,0.94,10-12,4,Art
+Studio Art (2D),0.82,0.96,11-12,3,Art
+Studio Art ,-1,-1,11-12,4,Art
+Computer Science A,0.645,0.606,10-12,5,Computer Science
+Computer Science Principles,-1,-1,10-12,3,Computer Science
+Language and Composition,0.55,0.69,11,4,English
+Literature and Composition,0.55,0.64,12,5,English
+Calculus AB,0.61,0.72,11-12,4,Math
+Calculus BC,0.81,1,11-12,5,Math
+Statistics,0.61,0.81,11-12,4,Math
+Biology,0.61,0.83,11/12,4,Science
+Chemistry,0.54,0.57,11/12,4,Science
+Enivronmental,0.46,0.5,11-12,4,Science
+Physics 1,0.4,0.3,11-12,4,Science
+Physics 2,0.61,-1,12,4,Science
+Physics C,0.74,0.8,11-12,5,Science
+Comparative Government and Politics,-1,-1,11-12,3,Social Studies
+European History,0.526,0.613,10,4,Social Studies
+Human Geography,0.556,0.72,9,3,Social Studies
+Macroeconomics ,0.57,0.957,11-12,3,Social Studies
+Microeconomics ,0.673,0.593,11-12,3,Social Studies
+Psychology,0.642,0.715,11-12,2,Social Studies
+US Government and Politics,0.508,0.81,11-12,3,Social Studies
+US History ,0.524,0.459,11,5,Social Studies
+World History,0.559,0.774,10,-1,Social Studies
+French,0.735,0.926,11-12,5,World Languages
+German,0.63,0.75,11-12,5,World Languages
+Italian,0.67,0.9,11-12,-1,World Languages
+Japanese,0.64,-1,11-12,5,World Languages
+Mandarin,0.75,0.88,11-12,5,World Languages
+Spanish Language,0.84,0.951,11-12,-1,World Languages
+Spanish Lit,0.7,0.79,11-12,5,World Languages
