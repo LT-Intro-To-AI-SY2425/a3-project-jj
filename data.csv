@@ -3,7 +3,7 @@ Research,0.67,1,12,4,AP Capstone
 Seminar,0.73,0.94,11,4,AP Capstone
 Art History,0.61,0.94,10-12,4,Art
 Studio Art (2D),0.82,0.96,11-12,3,Art
-Studio Art ,-1,-1,11-12,4,Art
+Studio Art,-1,-1,11-12,4,Art
 Computer Science A,0.645,0.606,10-12,5,Computer Science
 Computer Science Principles,-1,-1,10-12,3,Computer Science
 Language and Composition,0.55,0.69,11,4,English
@@ -20,11 +20,11 @@ Physics C,0.74,0.8,11-12,5,Science
 Comparative Government and Politics,-1,-1,11-12,3,Social Studies
 European History,0.526,0.613,10,4,Social Studies
 Human Geography,0.556,0.72,9,3,Social Studies
-Macroeconomics ,0.57,0.957,11-12,3,Social Studies
-Microeconomics ,0.673,0.593,11-12,3,Social Studies
+Macroeconomics,0.57,0.957,11-12,3,Social Studies
+Microeconomics,0.673,0.593,11-12,3,Social Studies
 Psychology,0.642,0.715,11-12,2,Social Studies
 US Government and Politics,0.508,0.81,11-12,3,Social Studies
-US History ,0.524,0.459,11,5,Social Studies
+US History,0.524,0.459,11,5,Social Studies
 World History,0.559,0.774,10,-1,Social Studies
 French,0.735,0.926,11-12,5,World Languages
 German,0.63,0.75,11-12,5,World Languages
